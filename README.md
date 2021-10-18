@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayxsth&theme=dark&hide_border=true&sideNums=4F8CC9&background=DDDDDD00&currStreakNum=15CCDD"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayxsth&theme=react&hide_border=true&stroke=0000&background=0d1117" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayxsth&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayxsth&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0d1117" />
     </td>
   </tr>
 </table>
